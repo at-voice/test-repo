@@ -1,3 +1,5 @@
 # test-repo
 
-aaaaa
+##develop用に追記しました
+
+-aaaaa
